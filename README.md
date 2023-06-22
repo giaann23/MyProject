@@ -1,1 +1,15 @@
-Belajar git ignore
+<html>
+  <head>
+    <title>MyProject</title>
+  </head>
+  <body>
+    <h1>
+      <h1>
+        Baris ke-7 berubah. 
+        Ada tambahan pada baris ke-8. 
+        <!-- kosong -->
+        Menambahkan baris ke-9 dengan stash
+      </h1>
+    </h1>
+  </body>
+</html>
